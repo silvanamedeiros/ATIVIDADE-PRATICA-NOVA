@@ -136,7 +136,7 @@ header i {
     .div-01 P {
         font-size: 30PX;
         color: black;
-        font-weight: 600;
+        font-weight: 500;
         line-height: 30px;
     }
    
@@ -178,7 +178,7 @@ header i {
 
     footer i {
         color: black;  /* cor dos icones*/
-        font-size: 20px; /* cor dos icones*/
+        font-size: 20px; /* tam dos icones*/
         text-align: center;
 
     }
